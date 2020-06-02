@@ -1,13 +1,11 @@
 {
   "name": "mason-motorsports-facts",
-  "description": "A starter template for 11ty (eleventy) static site generator on glitch.com",
+  "description": "Mason Motorsports facts page",
   "tags": [
-    "eleventy",
-    "11ty",
-    "ssr",
-    "static",
-    "glitch",
-    "template"
+    "mason",
+    "motorsports",
+    "facts",
+    "iracing"
   ],
   "version": "1.0.0",
   "scripts": {
