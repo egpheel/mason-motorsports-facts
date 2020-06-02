@@ -3,7 +3,7 @@ node_js:
   - 12.7.0
 before_script:
   - npm install @11ty/eleventy -g
-script: eleventy
+script: eleventy --pathprefix="/mason-motorsports-facts/"
 deploy:
   local-dir: dist
   provider: pages
