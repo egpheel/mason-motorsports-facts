@@ -1,6 +1,6 @@
 <h1>
-{{ name or siteData.title }}
+  <a href="/" style="text-decoration: none; color: #333333;">{{ siteData.title }}</a>
 </h1>
 {% for fact in collections.fact %}
-  <a href="{{ fact.url }}">{{ fact.data.name }}</a>
+  <a href="{{ fact.url }}">{{ fact.data.name }}</a>{% if fact != collections.fact.last %}, {% endif %}
 {% endfor %}
