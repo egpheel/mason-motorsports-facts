@@ -1,0 +1,6 @@
+<h1>
+{{ siteData.title }}
+</h1>
+{% for fact in collections.facts %}
+  <a href="{{ fact.data.url }}">{{ fact.data.name }}</a>
+{% endfor %}

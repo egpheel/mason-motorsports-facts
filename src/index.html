@@ -2,9 +2,7 @@
 layout: layouts/default
 pageTitle: Eleventy on Glitch
 ---
-<h1>
-{{ siteData.title }}
-</h1>
+{% include header.html %}
 <p>
   {% for fact in collections.fact %}
   <p>

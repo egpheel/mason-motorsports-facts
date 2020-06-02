@@ -1,6 +1,5 @@
 ---
 name: Justin Makaila
-tags: [fact, peeps]
+tags: fact
 ---
-
-{{ tags }}
+Justin is the milk man!
