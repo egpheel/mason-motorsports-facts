@@ -3,8 +3,12 @@ layout: layouts/default
 pageTitle: Eleventy on Glitch
 ---
 <h1>
-Welcome to {{ siteData.title }}
+{{ siteData.title }}
 </h1>
 <p>
-  {{This is test content. This live updates while you type!}}
+  {% for fact in collections.fact %}
+  <p>
+    {{ fact.data.name }} - {{ fact.templateContent }}
+  </p>
+  {% endfor %}
 </p>
