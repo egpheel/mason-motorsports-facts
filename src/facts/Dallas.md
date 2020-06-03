@@ -4,9 +4,9 @@ tags: fact
 layout: layouts/default
 ---
 
-### I need help for Dallas facts.
+### Dallas' internet is so fast you can't even see it.
 
-_In the meantime, take a look at his best quotes below._
+_Hence the blinking on iracing. You can only see him when his internet slows down._
 
 
 #### Best quotes:
