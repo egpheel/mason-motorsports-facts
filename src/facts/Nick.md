@@ -1,6 +1,5 @@
 ---
 name: Nick Rosenbrock
-tags: fact
 layout: layouts/default
 ---
 ### Nick _is_ the Nordschleife.
