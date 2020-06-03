@@ -1,6 +1,5 @@
 ---
 name: Dallas Mutch
-tags: fact
 layout: layouts/default
 ---
 
