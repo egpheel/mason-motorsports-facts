@@ -3,6 +3,12 @@ name: Dallas Mutch
 tags: fact
 layout: layouts/default
 ---
-### "Melbourne is either cold or hot. But always cold", Dallas Much, circa 3rd June 2020.
 
-_Yep, that's right._
+### I need help for Dallas facts.
+
+_In the meantime, take a look at his best quotes below._
+
+
+#### Best quotes:
+
+- _Melbourne is either cold or hot. But always cold_
